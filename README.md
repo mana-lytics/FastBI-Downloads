@@ -1,4 +1,4 @@
-# FastBI — Downloads
+# FastBI
 
 Downloadable packages for **FastBI v.0.1**, and the metadata needed to verify
 them. This repository contains **no application source code** — it exists so the
